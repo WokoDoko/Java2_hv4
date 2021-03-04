@@ -90,7 +90,7 @@ public class Main extends JFrame implements ActionListener, Thread.UncaughtExcep
 
 
 
-        Thread.setDefaultUncaughtExceptionHandler(this); //что это?
+        Thread.setDefaultUncaughtExceptionHandler(this); //что это??
 
 
     }
